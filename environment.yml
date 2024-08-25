@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python =3.10
   - jupyterlab >=3,<4.0.0a0
+  - graphviz
   - pip
   - pip:
     - jupyter
