@@ -7,5 +7,6 @@ dependencies:
   - graphviz
   - pip
   - pip:
+    - numpy
     - jupyter
     - lolviz
