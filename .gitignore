@@ -1,2 +1,7 @@
 *~
 */a.out
+*/.cmake/
+*/CMakeFiles/
+*/CMakeCache.txt
+*/build/
+*/.clangd/
