@@ -1,4 +1,4 @@
-name: class-environment
+name: class-8650-environment
 channels:
   - conda-forge
 dependencies:
